@@ -41,9 +41,13 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 ## Learn More
 
-To learn more about Rainbow Kit, take a look at the following resources:
+To learn more about Rainbow Kit, take a look at the following resource:
 
 - [Rainbow Kit Documentation](https://rainbowkit.com/docs/introduction) - learn about Rainbow Kit features.
+
+To learn more about Alchemy, take a look at the following resource:
+
+- [Alchemy Documentation](https://docs.alchemy.com/alchemy/) - learn about Alchemy features.
 
 To learn more about Next.js, take a look at the following resources:
 
