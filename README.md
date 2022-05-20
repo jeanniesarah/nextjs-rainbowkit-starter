@@ -28,7 +28,9 @@ $ yarn
 $ yarn dev
 ```
 
-You are now able to view the application at http://localhost:3000.
+You are now able to view the application at http://localhost:3000 🎉
+
+![nextjs-rainbowkit-starter-screenshot](https://user-images.githubusercontent.com/39424571/169580344-502be4ac-6613-470f-8c6e-1b24e49ddf0e.png)
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
@@ -36,7 +38,12 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
+
 ## Learn More
+
+To learn more about Rainbow Kit, take a look at the following resources:
+
+- [Rainbow Kit Documentation](https://rainbowkit.com/docs/introduction) - learn about Rainbow Kit features.
 
 To learn more about Next.js, take a look at the following resources:
 
